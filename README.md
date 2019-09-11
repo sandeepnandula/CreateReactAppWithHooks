@@ -1,2 +1,0 @@
-# CreateReactAppWithHooks
-Created with CodeSandbox
